@@ -1,0 +1,14 @@
+.tooltip {
+padding: 10px;
+font-size: 14px;
+
+}
+
+.tooltip__header {
+    display: flex;
+}
+
+
+.tooltip__label { 
+    color: #757575;
+}
